@@ -1,1 +1,35 @@
-
+{
+    "access_token": "ya29.a0AWY7Ckm9wBQR99KU10o446f2n3-M3EGSAP5n9KW1bxs5JLuUq5K9GsuJYOq7tk4_OVGctpoe7g0Wql3XJnMrZqkLRt2AOGbQ3VyAR-M4WnDDRbf1LIfyh9Z-pKlW21p_JV22pPqvqSSfJST2q5cpRgur6j2qaCgYKAb8SARESFQG1tDrp90nsHNXm168yb1-dDMOMRA0163",
+    "account_list": [
+        {
+            "username": "thae0889",
+            "password": "y2kchikore@nvirus",
+            "pic": "",
+            "auth": "yyigaqfc9gw4cn5uvhmdfpgp76l96cymb8m7f938yxq850b30u"
+        }
+    ],
+    "adult": "false",
+    "arcio": "dev",
+    "auth": "true",
+    "build_interval": 360,
+    "build_type": "hybrid",
+    "category_list": [],
+    "client_id": "713835767252-6hnm9ochploa11tccu1rgl87i3gsfcgt.apps.googleusercontent.com",
+    "client_secret": "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",
+    "cloudflare": "",
+    "fetch_assets": "false",
+    "refresh_token": "1//0eWDlO_44FCyYCgYIARAAGA4SNwF-L9IrB0elH8zYFn6hdJJYH7jrjSXfmWhz-SrpuBoC8U6gLpEHDaNdInor9Jw4kL_NG57_nBA",
+    "remove_duplicates": "false",
+    "remove_no_poster": "false",
+    "secret_key": "",
+    "tmdb_api_key": "",
+    "token_expiry": "",
+    "prefer_mkv": "false",
+    "prefer_mp4": "true",
+    "transcoded": "true",
+    "service_accounts": [],
+    "signup": "false",
+    "ui_config": {
+        "custom_button": {}
+    }
+}
